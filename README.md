@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @shaushi
+- 👀 I’m interested in learning coding.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me sharayudhawane@gmail.com
+- 😄 Pronouns: her
+- ⚡ Fun fact: I'm civil engg!
